@@ -9,8 +9,8 @@ const projects = [
     image: "/img/Amazon.png",
     image: "/img/Amazon.png",
     tags: ["HTML", "CSS", "UI/UX"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://nandikantipavansathvik.github.io/Amazon-Clone/",
+    githubUrl: "https://github.com/NandikantiPavanSathvik/Amazon-Clone",
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ const projects = [
     image: "/img/Food_website.png",
     image: "/img/Food_website.png",
     tags: ["React", "CSS", "Responsive UI"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://nandikantipavansathvik.github.io/Foodwebsite/",
+    githubUrl: "https://github.com/NandikantiPavanSathvik/Food_website",
   },
   {
     id: 3,
@@ -30,8 +30,8 @@ const projects = [
       "A personal portfolio website developed using React and TailwindCSS to showcase projects, skills, and achievements.",
     image: "/img/Portfolio.png",
     tags: ["React", "TailwindCSS", "Responsive UI"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://pavan-sathvik.vercel.app/",
+    githubUrl: "https://github.com/NandikantiPavanSathvik/portfolio",
   },
 ];
 
